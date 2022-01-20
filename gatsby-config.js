@@ -1,21 +1,40 @@
 module.exports = {
   siteMetadata: {
-      title: `methods-sp2022`,
-    siteUrl: `https://www.yourdomain.tld`
+      title: `A4407-sp2022`,
+    siteUrl: `https://sp2022.org`,
   },
-  plugins: ["gatsby-plugin-image", "gatsby-transformer-remark", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
-    resolve: 'gatsby-source-filesystem',
+  plugins: [
+    "gatsby-plugin-image", 
+    "gatsby-plugin-sharp",
+    
+  {
+    resolve: "gatsby-source-filesystem",
     options: {
-      "name": "images",
-      "path": "./src/images/"
-    },
-    __key: "images"
-  }, {
-    resolve: 'gatsby-source-filesystem',
+      name: `tutorials`,
+      path: `${__dirname}/tutorials`,
+      },
+  },
+  'gatsby-remark-images',
+  {
+    resolve: `gatsby-plugin-mdx`,
     options: {
-      "name": "pages",
-      "path": "./src/pages/"
+      gatsbyRemarkPlugins: [
+        {
+          resolve: `gatsby-remark-images`,
+          options: {
+            maxWidth: 800,
+            linkImagesToOriginal: false,          },
+        },
+        {
+          resolve: "gatsby-remark-image-attributes",
+          options: {
+            // dataAttributes: false
+          }
+        }
+      ],
     },
-    __key: "pages"
-  }]
+  },
+    
+  ],
 };
+
