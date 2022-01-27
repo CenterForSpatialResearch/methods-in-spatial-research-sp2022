@@ -15,6 +15,20 @@ module.exports = {
       path: `${__dirname}/tutorials`,
       },
   },
+  {
+    resolve: "gatsby-source-filesystem",
+    options: {
+      name: `assignments`,
+      path: `${__dirname}/assignments`,
+      },
+  },
+  {
+    resolve: "gatsby-source-filesystem",
+    options: {
+      name: `resources`,
+      path: `${__dirname}/resources`,
+      },
+  },
   'gatsby-remark-images',
   {
     resolve: `gatsby-plugin-mdx`,
