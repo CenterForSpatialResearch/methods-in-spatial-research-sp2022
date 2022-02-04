@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-assignments-index-js",
     "path": "/assignments/",
-    "result": {"data":{"allMdx":{"nodes":[{"frontmatter":{"author":"Dare Brawley","cat":"assignment","sequence":1,"title":"Intentional Re/Mis Use"},"id":"129ae2d9-cc87-5d01-8a79-8bee3f9f08e1","slug":"assignment01"}]}},"pageContext":{}},
+    "result": {"data":{"allMdx":{"nodes":[{"frontmatter":{"author":"Dare Brawley","cat":"assignment","sequence":1,"title":"Intentional Re/Mis Use"},"id":"129ae2d9-cc87-5d01-8a79-8bee3f9f08e1","slug":"assignment01"},{"frontmatter":{"author":"Dare Brawley","cat":"assignment","sequence":2,"title":"Selective Digitization"},"id":"6a0ec30a-1a31-5e9f-9500-4ce728299790","slug":"assignment02"}]}},"pageContext":{}},
     "staticQueryHashes": ["3159585216"]}
