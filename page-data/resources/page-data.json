@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-resources-index-js",
     "path": "/resources/",
-    "result": {"data":{"allMdx":{"nodes":[{"frontmatter":{"title":"Further GIS learning resources","author":null,"sequence":null},"id":"edbff070-52b7-5b3e-bf66-bb338cf331b1","slug":"further-learning"},{"frontmatter":{"title":"Precedents & Project Examples","author":null,"sequence":null},"id":"ec85a5aa-5d22-5bc4-b6d8-ea599d5c536d","slug":"precedents-examples"}]}},"pageContext":{}},
+    "result": {"data":{"allMdx":{"nodes":[{"frontmatter":{"title":"Precedents & Project Examples","author":null,"sequence":null},"id":"ec85a5aa-5d22-5bc4-b6d8-ea599d5c536d","slug":"precedents-examples"},{"frontmatter":{"title":"Further GIS learning resources","author":null,"sequence":null},"id":"edbff070-52b7-5b3e-bf66-bb338cf331b1","slug":"further-learning"}]}},"pageContext":{}},
     "staticQueryHashes": ["3159585216"]}
