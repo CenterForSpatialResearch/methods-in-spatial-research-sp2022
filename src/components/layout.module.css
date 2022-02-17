@@ -44,13 +44,12 @@ a:hover {
     font-size: .25rem;
 }
 
-code {
+/* code {
     font-family: 'Roboto Mono', monospace;
     font-size: 90%;
     font-feature-settings: "clig" 0, "calt" 0;
     background: rgb(233, 231, 231);
-    /*background: rgb(233, 231, 231);
-    /* padding-top: 0.2em;
-    padding-bottom: 0.2em; */
-}
-
+    background: rgb(233, 231, 231);
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+} */
