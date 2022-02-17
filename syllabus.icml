@@ -11784,13 +11784,13 @@ AAAAAAAA]]></GraphicProxy>
 				<Content>Assignment 1 due – Intentional Misuse</Content>
 				<Br />
 				<Content>Readings</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="12">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Density in Mid-Nineteenth-Century New York City.” 2016.</Content>
-				<Br />
 				<Content>Wilson, Mabel. “The Cartography of W.E.B. Du Bois’s Color Line” in </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -11809,6 +11809,30 @@ AAAAAAAA]]></GraphicProxy>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
+				<Content>Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Density in Mid-Nineteenth-Century New York City.” 2016.</Content>
+				<Br />
+				<Content>Center for Spatial Research &amp; Department of History, Columbia University, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
+				<HyperlinkTextSource Self="u2bf" Name="Hyperlink 29" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
+					<Content>Mapping Historical New York</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, A Digital Atlas. 2021.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; BulList">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Please read the ‘Intro to Historical NY` story at the link above, and click through to each stage of this introduction to the project through 173 Douglas Street. Feel free to further explore the interactive map.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>Digital Scholarship Lab, University of Richmond. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -12031,7 +12055,8 @@ AAAAAAAA]]></GraphicProxy>
 				<Br />
 				<Content>Tutorials (30%) Skills-focused weekly tutorials are required and will expose you to multiple methods for engaging with spatial data. Tutorials include step by step instructions and are graded on completion (not accuracy).</Content>
 				<Br />
-				<Content>Assignments + Portfolio (50%, 10% each) Weekly map assignments will allow you to apply the skills acquired via tutorials and begin to experiment with creative applications of spatial methods. Five map assignments will be completed over the course of the six week course and as such are intended to be limited in scope; experimental; and geared towards learning and creative engagement rather than demonstrating advanced skills. Assignment descriptions and associated assessment rubrics will be distributed each week.</Content>
+				<Content>Assignments + Portfolio (50%, 10% each) Weekly map assignments will allow you to apply the skills acquired via tutorials and begin to experiment with creative applications of spatial methods. Five map assignments will be completed over the course of the six week course and as such are intended to be limited in scope; experimental; and geared towards learning and creative engagement rather than demonstrating advanced skills. Assignment descriptions and associated assessment rubrics wil</Content>
+				<Content>l be distributed each week.</Content>
 				<Br />
 				<Content>For the final course session you will assemble your map assignments into a single document/portfolio/atlas.</Content>
 				<Br />
@@ -12047,8 +12072,7 @@ AAAAAAAA]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Geographic Information Systems is not a software. As such this course will not seek to provide students with proficiency in a particular software platform.</Content>
 				<Br />
-				<Content>Tutorial resources will be primarily p</Content>
-				<Content>rovided for QGIS 3.16 (LTR). This is an open source software program for geographic analysis that runs on Windows, Mac, and Linux operating systems. All students will be expected to download and install QGIS 3.16 (LTR). Documentation for QGIS is available </Content>
+				<Content>Tutorial resources will be primarily provided for QGIS 3.16 (LTR). This is an open source software program for geographic analysis that runs on Windows, Mac, and Linux operating systems. All students will be expected to download and install QGIS 3.16 (LTR). Documentation for QGIS is available </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
 				<HyperlinkTextSource Self="u16b" Name="Hyperlink 17" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
@@ -12080,25 +12104,7 @@ AAAAAAAA]]></GraphicProxy>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Course google drive folder</Content>
-				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Some assignments may require you to upload materials to a course google drive folder. Additional datasets may be made available via Google Drive </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
-				<HyperlinkTextSource Self="u171" Name="Hyperlink 20" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/Hyperlink">
-					<Content>here</Content>
-				</HyperlinkTextSource>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Academic Integrity</Content>
 				<Br />
@@ -12285,15 +12291,16 @@ AAAAAAAA]]></GraphicProxy>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 24" Name="URL 24" DestinationURL="http://www.italianlimes.net" Hidden="false" DestinationUniqueKey="57" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 25" Name="URL 25" DestinationURL="https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1" Hidden="false" DestinationUniqueKey="58" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//drive.google.com/open?id=1Bs20TijMuJrwsY6Fnu_iceXSnPyvO7qo&amp;authuser=db2672%2540columbia.edu&amp;usp=drive_fs" Name="https://drive.google.com/open?id=1Bs20TijMuJrwsY6Fnu_iceXSnPyvO7qo&amp;authuser=db2672%40columbia.edu&amp;usp=drive_fs" DestinationURL="https://drive.google.com/open?id=1Bs20TijMuJrwsY6Fnu_iceXSnPyvO7qo&amp;authuser=db2672%40columbia.edu&amp;usp=drive_fs" Hidden="false" DestinationUniqueKey="59" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//mappinghny.com/case-studies/?lng=-73.9760&amp;lat=40.7220&amp;zoom=12.50&amp;maps=%255B%257B%2522center%2522%253A%257B%2522lng%2522%253A-73.976,%2522lat%2522%253A40.722%257D,%2522demographicOpacity%2522%253A1,%2522demographicsFilters%2522%253A%257B%257D,%2522filters%2522%253A%257B%257D,%2522layers%2522%253A%255B%257B%2522" Name="https://mappinghny.com/case-studies/?lng=-73.9760&amp;lat=40.7220&amp;zoom=12.50&amp;maps=%5B%7B%22center%22%3A%7B%22lng%22%3A-73.976,%22lat%22%3A40.722%7D,%22demographicOpacity%22%3A1,%22demographicsFilters%22%3A%7B%7D,%22filters%22%3A%7B%7D,%22layers%22%3A%5B%7B%22" DestinationURL="https://mappinghny.com/case-studies/?lng=-73.9760&amp;lat=40.7220&amp;zoom=12.50&amp;maps=%5B%7B%22center%22%3A%7B%22lng%22%3A-73.976,%22lat%22%3A40.722%7D,%22demographicOpacity%22%3A1,%22demographicsFilters%22%3A%7B%7D,%22filters%22%3A%7B%7D,%22layers%22%3A%5B%7B%22id%22%3A%22dwellings-dot-density-birthplace%22%7D%5D,%22rasterOpacity%22%3A1,%22year%22%3A%221880%22,%22zoom%22%3A12.5%7D%5D&amp;rasterOpacity0=1&amp;caseStudyId&amp;caseStudyStep" Hidden="false" DestinationUniqueKey="60" />
 	<Hyperlink Self="u265" Name="https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1" Source="u25d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="83">
 		<Properties>
 			<BorderColor type="enumeration">Green</BorderColor>
 			<Destination type="list">
 				<ListItem type="string">syllabus_sp22.indd</ListItem>
 				<ListItem type="string">Google Drive</ListItem>
-				<ListItem type="long">1826</ListItem>
+				<ListItem type="long">40</ListItem>
 				<ListItem type="long">35841</ListItem>
-				<ListItem type="long">509</ListItem>
+				<ListItem type="long">0</ListItem>
 			</Destination>
 		</Properties>
 	</Hyperlink>
@@ -12303,9 +12310,9 @@ AAAAAAAA]]></GraphicProxy>
 			<Destination type="list">
 				<ListItem type="string">syllabus_sp22.indd</ListItem>
 				<ListItem type="string">Google Drive</ListItem>
-				<ListItem type="long">1826</ListItem>
+				<ListItem type="long">40</ListItem>
 				<ListItem type="long">35841</ListItem>
-				<ListItem type="long">507</ListItem>
+				<ListItem type="long">0</ListItem>
 			</Destination>
 		</Properties>
 	</Hyperlink>
@@ -12331,6 +12338,12 @@ AAAAAAAA]]></GraphicProxy>
 		<Properties>
 			<BorderColor type="enumeration">Green</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 20</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u2c0" Name="Mapping Historical New York" Source="u2bf" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="60">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkURLDestination/https%3a//mappinghny.com/case-studies/?lng=-73.9760&amp;lat=40.7220&amp;zoom=12.50&amp;maps=%255B%257B%2522center%2522%253A%257B%2522lng%2522%253A-73.976,%2522lat%2522%253A40.722%257D,%2522demographicOpacity%2522%253A1,%2522demographicsFilters%2522%253A%257B%257D,%2522filters%2522%253A%257B%257D,%2522layers%2522%253A%255B%257B%2522</Destination>
 		</Properties>
 	</Hyperlink>
 	<Hyperlink Self="u1aa" Name="https://dsl.richmond.edu/panorama/redlining/" Source="u140" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="52">
@@ -12397,12 +12410,6 @@ AAAAAAAA]]></GraphicProxy>
 		<Properties>
 			<BorderColor type="enumeration">Green</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 7</Destination>
-		</Properties>
-	</Hyperlink>
-	<Hyperlink Self="u190" Name="https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl" Source="u171" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="59">
-		<Properties>
-			<BorderColor type="enumeration">Green</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/https%3a//drive.google.com/open?id=1Bs20TijMuJrwsY6Fnu_iceXSnPyvO7qo&amp;authuser=db2672%2540columbia.edu&amp;usp=drive_fs</Destination>
 		</Properties>
 	</Hyperlink>
 	<Hyperlink Self="u18e" Name="http://www.college.columbia.edu/academics/academicintegrity" Source="u175" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="38">
